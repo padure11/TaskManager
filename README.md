@@ -20,7 +20,7 @@ Acest script Bash oferă funcționalități pentru monitorizarea resurselor de s
 1. Clonați repo-ul pe mașina dvs.:
 
     ```bash
-    git clone https://github.com/<user>/<repository>.git
+    git clone https://github.com/padure11/TaskManager
     ```
 
 2. Navigați în directorul proiectului:
