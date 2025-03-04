@@ -107,15 +107,3 @@ Lansați scriptul cu opțiunile dorite. Exemple de utilizare:
 - `-u, --usage`: Afișează utilizarea discului pe directoare
 - `-h, --help`: Afișează acest mesaj de ajutor
 
-## Note
-
-- Este necesar să aveți permisiuni de root pentru a modifica configurațiile de sistem sau pentru a vizualiza logurile de sistem.
-- Fiți atent la opțiunile care pot termina sau modifica procesele, deoarece acestea pot afecta funcționarea normală a sistemului.
-
-## Contribuții
-
-Dacă doriți să contribuiți la acest proiect, deschideți o cerere de tragere (pull request) cu modificările dorite.
-
-## Licență
-
-Acest proiect este licențiat sub Licența MIT - vezi fișierul [LICENSE](LICENSE) pentru detalii.
